@@ -18,8 +18,11 @@
   </tr>
 </table>
 <br>
- Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
- ![](https://hit.yhype.me/github/profile?user_id=25745900)
+
+Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+![](https://hit.yhype.me/github/profile?user_id=25745900)
+![](https://komarev.com/ghpvc/?username=abhishekshree&style=flat-square)
+
 <!--
 **abhishekshree/abhishekshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
