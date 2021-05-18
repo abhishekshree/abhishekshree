@@ -21,7 +21,7 @@
 <br>
 
 Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-<a href="https://dev.to/abhishekshree" target="_blank" style="text-decoration:none">
+<a href="https://dev.to/abhishekshree" target="_blank">
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=30 height=30>
 </a>
 &nbsp;
