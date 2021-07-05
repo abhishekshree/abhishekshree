@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```bash
  __          ___           _     _              _         _            _               ___  
@@ -12,10 +12,10 @@
 ```
 <br>
 <div>
-<table style="margin-left: auto; margin-right: auto;">
+<table>
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=abhishekshree&show_icons=true&hide_border=true&hide=issues&theme=radical" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshree&layout=compact&langs_count=6&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=abhishekshree&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshree&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=radical" /></th>
   </tr>
 </table>
 </div>
