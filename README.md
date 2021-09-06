@@ -26,7 +26,7 @@
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=30 height=30>
 </a>
 &nbsp;
-![](https://hit.yhype.me/github/profile?user_id=25745900)
+![](https://komarev.com/ghpvc/?username=abhishekshree&color=green&style=flat-square&label=Visitors)
 ![](https://komarev.com/ghpvc/?username=abhishekshree&style=flat-square)
 
 
