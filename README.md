@@ -19,28 +19,18 @@
   </tr>
 </table>
 </div>
-<br>
-
-<br><br>
-<a href="https://dev.to/abhishekshree" target="_blank">
-<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=30 height=30>
-</a>
-&nbsp;
-![](https://komarev.com/ghpvc/?username=abhishekshree&color=green&style=flat-square&label=Visitors)
-<!-- ![](https://komarev.com/ghpvc/?username=abhishekshree&style=flat-square) -->
-
-
-<!--
-**abhishekshree/abhishekshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<div>
+ <div>
+  <a href="https://dev.to/abhishekshree" target="_blank">
+  <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=40 height=40>
+  </a>
+  <a href="https://dev.to/abhishekshree" target="_blank">
+  <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=40 height=40>
+  </a>
+ </div>
+ <div>
+  
+ ![](https://komarev.com/ghpvc/?username=abhishekshree&color=green&style=flat-square&label=Visitors)
+ </div>
+</div>
