@@ -1,5 +1,6 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋
 
+<!-- 
 ```bash
  __          ___           _     _              _         _            _               ___  
  \ \        / / |         | |   | |            | |       | |          | |             |__ \ 
@@ -9,7 +10,7 @@
      \/  \/   |_| |_|\__,_|\__|  \__\___/   \__,_|\___/   \__\___/ \__,_|\__,_|\__, |  (_)  
                                                                                 __/ |       
                                                                                |___/        
-```
+``` -->
 <br>
 <div>
 <table>
