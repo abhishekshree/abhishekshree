@@ -11,12 +11,13 @@
                                                                                 __/ |       
                                                                                |___/        
 ``` -->
+[Here's](https://abhishekshree.xyz/) my website.
 <br>
 <div>
 <table>
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=abhishekshree&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshree&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshree&hide=jupyter notebook&layout=compact&langs_count=10&hide_border=true&border_radius=0&card_width=450&theme=radical" /></th>
   </tr>
 </table>
 </div>
