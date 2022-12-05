@@ -13,7 +13,7 @@
 ``` -->
 [Here's](https://abhishekshree.xyz/) my website.
 <br>
-<div>
+<!-- <div>
 <table>
   <tr>
     <th>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 </div>
-<br />
+<br /> -->
 <div>
  <div>
   <a href="https://dev.to/abhishekshree" target="_blank">
