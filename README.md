@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- 
 ```bash
  __          ___           _     _              _         _            _               ___  
@@ -23,16 +21,6 @@
 </table>
 </div>
 <br /> -->
-<div>
- <div>
-  <a href="https://dev.to/abhishekshree" target="_blank">
-  <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=40 height=40>
-  </a>
-  <a href="https://dev.to/abhishekshree" target="_blank">
-  <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=40 height=40>
-  </a>
- </div>
- <div>
   
  ![](https://komarev.com/ghpvc/?username=abhishekshree&color=green&style=flat-square&label=Visitors)
 <!-- https://profile-counter.glitch.me/abhishekshree/count.svg   -->
