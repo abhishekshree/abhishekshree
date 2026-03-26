@@ -9,7 +9,7 @@
                                                                                 __/ |       
                                                                                |___/        
 ``` -->
-[Here's](https://abhishekshree.xyz/) my website.
+[Here's](https://abhishekshree.github.io/) my website.
 <br>
 <!-- <div>
 <table>
